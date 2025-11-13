@@ -2,7 +2,7 @@
 
 ### Authors
 
-- Massimiliano Pozzi (Bocconi University, pozzi.massimiliano@studbocconi.it)
+- Massimiliano Pozzi (University of Zurich)
 - Salvatore Nunnari (Bocconi University, https://snunnari.github.io, salvatore.nunnari@unibocconi.it)
 
 ### About
@@ -50,10 +50,10 @@ We chose these papers to replicate because (a) they were recently published in g
 
 ### Where Can I Learn More About Structural Models?
 
- - DellaVigna, Stefano, 2018, ["Structural Behavioral Economics"](http://snunnari.github.io/SBE/dellavigna.pdf), *Handbook of Behavioral Economics Vol. 1*, North-Holland, 613&ndash;723
- - Holmes, Thomas and Holger Sieg, 2015, ["Structural Estimation in Urban Economics"](http://snunnari.github.io/SBE/holmes.pdf), *Handbook of Regional and Urban Economics Vol. 5*, Elsevier, 69-114
- - Keane, Michael, Petra Todd, and Kenneth Wolpin, 2011, ["The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications"](http://snunnari.github.io/SBE/keane.pdf), *Handbook of Labor Economics Vol. 4*, Elsevier, 331&ndash;461
- - Low, Hamish and Costas Meghir, 2017, ["The Use of Structural Models in Econometrics"](http://snunnari.github.io/SBE/low.pdf), *Journal of Economic Perspectives*, 31(2): 33&ndash;58
- - McLachlan, Geoffrey, Sharon Lee, and Suren Rathnayake, 2019, ["Finite Mixture Models"](http://snunnari.github.io/SBE/mclachlan.pdf), *Annual Review of Statistics and Its Application*, 6: 355&ndash;378
- - Reiss, Peter and Frank Wolak, 2007, ["Structural Econometric Modeling: Rationales and Examples from Industrial Organization"](http://snunnari.github.io/SBE/reiss.pdf), *Handbook of Econometrics*, 6: 4277&ndash;4415
- - Todd, Petra and Kenneth Wolpin, 2010, ["Structural Estimation and Policy Evaluation in Developing Countries"](http://snunnari.github.io/SBE/todd.pdf), *Annual Review of Economics*, 2:21&ndash;50
+ - DellaVigna, Stefano, 2018, "Structural Behavioral Economics," *Handbook of Behavioral Economics Vol. 1*, North-Holland, 613&ndash;723
+ - Holmes, Thomas and Holger Sieg, 2015, "Structural Estimation in Urban Economics," *Handbook of Regional and Urban Economics Vol. 5*, Elsevier, 69-114
+ - Keane, Michael, Petra Todd, and Kenneth Wolpin, 2011, "The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications," *Handbook of Labor Economics Vol. 4*, Elsevier, 331&ndash;461
+ - Low, Hamish and Costas Meghir, 2017, "The Use of Structural Models in Econometrics," *Journal of Economic Perspectives*, 31(2): 33&ndash;58
+ - McLachlan, Geoffrey, Sharon Lee, and Suren Rathnayake, 2019, "Finite Mixture Models," *Annual Review of Statistics and Its Application*, 6: 355&ndash;378
+ - Reiss, Peter and Frank Wolak, 2007, "Structural Econometric Modeling: Rationales and Examples from Industrial Organization," *Handbook of Econometrics*, 6: 4277&ndash;4415
+ - Todd, Petra and Kenneth Wolpin, 2010, "Structural Estimation and Policy Evaluation in Developing Countries," *Annual Review of Economics*, 2:21&ndash;50
